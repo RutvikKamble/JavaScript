@@ -1,0 +1,38 @@
+
+// Arithmatic class -> Addition Sub
+
+class Arithmatic
+{
+    constructor(A,B)
+    {
+        this.No1 = A;
+        this.No2 = B;
+
+    }
+
+    Addition()
+    {
+        return this.No1 + this.No2;
+    }
+
+    Substraction()
+    {
+        return this.No1+ this.No2;
+    }
+
+}
+
+function main()
+{
+
+    let obj = new Arithmatic(10,11);
+    let iRet = 0;
+    
+    iRet = Addition();
+    console.log("Additon is : ",iRet);
+    
+    iRet = Substraction();
+    console.log("Substraction is : ",iRet);
+}
+
+main() 
