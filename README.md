@@ -2,9 +2,9 @@
 ---
 
 #JavaScript Practice Code
+---
+---
 
----
----
 This repository contains my JavaScript practice programs and concepts.
 --- ---
 ## Topics Covered
